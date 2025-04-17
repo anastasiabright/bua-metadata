@@ -15,5 +15,5 @@ Anschließend wurden Metadaten, die mit diesen DOIs verknüpft wurden, im Format
 
 ### Ordnerstruktur
 - **DOIs**: DOIs der Forschungsdatensätze
-- **F-UJI**: Ergebnisse der Evaluation mit F-UJI
+- **F-UJI**: Ergebnisse der Evaluation mit F-UJI (.csv - Ergebniss ein % für FAIR Prnzipien und FsF-Metriken; .RData - Egebnisse in long-Format für FsF-Metriken und debug-messages)
 - **OAI-PMH**: Metadaten im Format DIM
